@@ -11,3 +11,7 @@ How to connect everything (please do it in this order!! or else you'll have to d
 6. Screw the lid onto the controller body
 7. Screw the joystick module onto the lid
 
+You will need to put the .STL's face down in whatever slicer you use for the 3D printer
+
+
+Have fun!
